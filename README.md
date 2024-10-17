@@ -12,3 +12,5 @@ Kelas: XRPL C
 Saya ingin berterimakasih kepada orang tua
 Ucapan terimakasih untuk orangtua saya
 dan sekian terima gaji
+
+XI RPL C
